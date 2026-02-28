@@ -3,6 +3,13 @@
 - Slack channel: #architecture
 - 회비: 10,000원 (입금 방법: 토스뱅크: 1000-6285-0619, 예금주: 조용진)
 
+--
+# 55번째 모임 (2026년 2월 26일 목요일 오후 7시)
+
+- 참가 신청 [[link](https://www.meetup.com/awskrug/events/311852046/)]
+- 오프라인 장소: 서울 강남구 테헤란로 231 센터필드 EAST 18층 트레이닝룸 https://naver.me/GpJfcUQW
+- 발표자료 : https://awskrug.slack.com/files/U03DBSN09FU/F0AJ5SC8MDE/2026.02.26_awskrug___________________________________________________aws_re_invent_2025_re_cap.pdf
+  
 ---
 # 54번째 모임 (2025년 11월 27일 목요일 오후 7시)
 
@@ -609,4 +616,5 @@
 
 - 한종원 (HBsmith CEO) "HB Smith에서는 AWS 이렇게 사용한다." [[link](https://www.slideshare.net/addnull/20170829-hb-smith-aws)]
 - 이상현 (Vingle): "Serverless Microservice Architecture로의 전환"
+
 
